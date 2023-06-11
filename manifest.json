@@ -1,0 +1,17 @@
+{
+    "name": "LinkHub",
+    "version": "1.0.0",
+    "description": "Bereans! Stop Googling labor-related links. Find them all here!",
+    "manifest_version": 3,
+    "author": "Belen Saavedra",
+    "action":{
+    "default_popup": "index.html",
+    "default_title": "LinkHub for Bereans",
+    "default_icon": {
+
+        "16": "images/Logo.png",
+        "32": "images/Logo.png",
+        "48": "images/Logo.png",
+        "128": "images/Logo.png"
+}}}
+
