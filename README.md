@@ -2,7 +2,7 @@
 Chrome extension that compiles all important links for Berea College workers
 
 
-### Links 
+#### Links:
 - Clock In/Out
 - Timesheet
 - Payment Schedule 
